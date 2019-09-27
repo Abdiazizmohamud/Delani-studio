@@ -3,10 +3,43 @@
   background-size: cover;
   height: 100vh;
   text-align: center;
+  font-size: 20px;
+  color: white;
 }
 .logo{
-  padding-top: 200px;
+  padding-top: 215px;
 }
 #mouse{
-  margin-top: 190px;
+  margin-top: 210px;
+}
+.jumbotron{
+  text-align: center;
+  background-color: white;
+}
+.service{
+  background-image: url("../img/s_image.jpg");
+  background-size: cover;
+  height: 50vh;
+  text-align: center;
+  padding-top: 90px;
+  color: white;
+  font-size: 15px;
+}
+.container{
+  text-align: center;
+}
+.row img{
+padding: 5px;
+position: inherit;
+}
+.contact{
+background-image: url("../img/c_image.jpg");
+background-size: cover;
+height: 50vh;
+text-align: center;
+padding-top: 10%;
+}
+.form{
+  opacity: 0.4;
+
 }
