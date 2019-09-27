@@ -1,0 +1,12 @@
+.welcome{
+  background-image: url("../img/h_img.jpg");
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+}
+.logo{
+  padding-top: 200px;
+}
+#mouse{
+  margin-top: 190px;
+}
