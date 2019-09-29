@@ -1,0 +1,14 @@
+$(document).ready(function(){
+  $(".madina").click(function(){
+    $("#imgd").toggle();
+    $("#design").toggle();
+  });
+  $(".boy").click(function(){
+    $("#imgv").toggle();
+    $("#development").toggle();
+  });
+  $(".mng").click(function(){
+    $("#imgm").toggle();
+    $("#product").toggle();
+  });
+});
