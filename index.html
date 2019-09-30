@@ -93,10 +93,13 @@
 <div class="contact">
   <h2>CONTACT US</h2>
   <form class="form" action="index.html" method="post">
-    <input type="text" name="Name" value="" placeholder="Name...">
-    <input type="text" name="Email" value="" placeholder="Email..."><br>
+    <input type="text" name="Name" value="" id="name" placeholder="Name...">
+    <input type="text" name="Email" value="" id="email" placeholder="Email..."><br>
     <br>
-    <textarea name="message" rows="5" placeholder="your message here..."></textarea>
+    <textarea name="message" rows="5" id="message" placeholder="your message here..."></textarea>
+    <div id="submit">
+      <button onclick="send();" id="submit" class="button">submit</button>
+    </div>
  </form>
 
 
