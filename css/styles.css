@@ -39,3 +39,15 @@ height: 50vh;
 text-align: center;
 padding-top: 10%;
 }
+.form{
+  opacity: 0.4;
+}
+#design{
+  display: none;
+}
+#development{
+  display: none;
+}
+#product{
+  display: none;
+}
