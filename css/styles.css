@@ -1,4 +1,11 @@
-
+.welcome{
+  background-image: url("../img/h_img.jpg");
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}
 .logo{
   padding-top: 215px;
 }
