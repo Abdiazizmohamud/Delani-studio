@@ -3,7 +3,7 @@
 #### By **Abdiaziz Mohamud**
 ## Description
 The website explains what Delani studio's work is.The website has an about section,a portfolio section to show projects done.It also has a footer that contains contact handles that will make easier for the user to reach out to the studio.
-###form submission
+### form submission
 enter name ,email and message
 after that your message will be sent
 the system will tell you to please put your details if you haven't done so  
@@ -16,16 +16,16 @@ Open the folder in your favourite editor for atom type atom . for visual studio 
 •To run the website in your browser  browser-name index.html
 
 ## Technologies Used
- **jQuery -Was used to produce custom animations and apply stylesheet
+ ** jQuery -Was used to produce custom animations and apply stylesheet
 
- **css-was used to style the web application
+ ** css-was used to style the web application
 
- **HTML5-used to setup the page and provide responsiveness layouts
+ ** HTML5-used to setup the page and provide responsiveness layouts
 
 ## Support and contact details
 For any inquires contact:Email-haji.abdiaziz10@gmail.com
 ### License
-*MIT License
+* MIT License
 
 Copyright (c) 2019 Abdiaziz Mohamud
 
@@ -48,4 +48,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 *
 
-*Copyright (c) 2019 *Abdiaziz mohamud*
+Copyright (c) 2019 *Abdiaziz mohamud*
