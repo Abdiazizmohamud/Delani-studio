@@ -11,16 +11,16 @@ the system will tell you to please put your details if you haven't done so
 ## Installation Requirements
 
 • Open terminal and type > git clone https://github.com/Abdiazizmohamud/Delani-studio to clone this project.You can also download it manually
-•After having a local copy navigate to me folder by  cd delani-studio
+• After having a local copy navigate to me folder by  cd delani-studio
 Open the folder in your favourite editor for atom type atom . for visual studio code > code .
-•To run the website in your browser  browser-name index.html
+• To run the website in your browser  browser-name index.html
 
 ## Technologies Used
- ** jQuery -Was used to produce custom animations and apply stylesheet
+ •jQuery -Was used to produce custom animations and apply stylesheet
 
- ** css-was used to style the web application
+ •css-was used to style the web application
 
- ** HTML5-used to setup the page and provide responsiveness layouts
+ •HTML5-used to setup the page and provide responsiveness layouts
 
 ## Support and contact details
 For any inquires contact:Email-haji.abdiaziz10@gmail.com
