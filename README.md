@@ -3,10 +3,9 @@
 #### By **Abdiaziz Mohamud**
 ## Description
 The website explains what Delani studio's work is.The website has an about section,a portfolio section to show projects done.It also has a footer that contains contact handles that will make easier for the user to reach out to the studio.
-### form submission
-enter name ,email and message
-after that your message will be sent
-the system will tell you to please put your details if you haven't done so  
+### Form Submission
+* Enter name ,Email and Message
+* Your message will be sent 
 
 ## Installation Requirements
 
@@ -24,6 +23,8 @@ Open the folder in your favourite editor for atom type atom . for visual studio 
 
 ## Support and contact details
 For any inquires contact:Email-haji.abdiaziz10@gmail.com
+#### Link To Github Pages
+https://abdiazizmohamud.github.io/Delani-studio/
 ### License
 * MIT License
 
