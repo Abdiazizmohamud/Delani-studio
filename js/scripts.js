@@ -11,23 +11,15 @@ $(document).ready(function(){
     $("#imgm").toggle();
     $("#product").toggle();
   });
-});
 $(document).ready(function(){
   $("form.form").submit(function(event){
     var name = $("input#name").val();
     var email = $("input#email").val();
     var message = $ ("input#message").val();
-    if ($("input#name") && $("input#email").val());
-      else if (true) {
-        (name + ", We have received your message.Thank you for reaching out.");
-      }
-      else if (false) {
-        ("please type your information")
-      }
-
-    });
-
-
-
-
+    if(name==="")
+    alert("please fill the form")
+    else if(name=$("input#name").val())
+    alert (name + ", We have received your message.Thank you for reaching out.");
+  })
+});
 });
